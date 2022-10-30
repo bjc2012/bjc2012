@@ -7,8 +7,8 @@ Find out more about me & feel free to connect with me here:
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. For spaces in names, use %20 (e.g. Broadus%20Palmer) -->
 
 [![Linkedin Badge](https://img.shields.io/badge/-(Brenton%20Collins)-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brenton-collins-547b29ba)](https://www.linkedin.com/in/brenton-collins-547b29ba)
-![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
-![Yahoo!](https://img.shields.io/badge/Yahoo!-6001D2?style=for-the-badge&logo=Yahoo!&logoColor=white&link=mailto:brentcollins012@yahoo.com)
+[![Medium Badge](https://img.shields.io/badge/Brenton%20Collins-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@brentoncollins012)](https://medium.com/@brentcollins012)
+
 
 ## ⚡ Technologies
 
