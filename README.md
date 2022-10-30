@@ -2,7 +2,7 @@
 
 <!-- My name is Brent Collins and I am a DevOps Engineering enthusiast currently enrolled in the Level Up In Tech program. My interests lie in the world of cloud engineering and cloud security. Currently, I am learning the intricasies of cloud engineering and creating related projects in the meantime. I'm looking forward to more creating and connecting as this journey unfolds and hope to fork with you all soon!-->
 
-Find out more about me & feel free to connect with me here:
+My name is Brent Collins and I am a DevOps Engineering enthusiast currently enrolled in the Level Up In Tech program. My interests lie in the world of cloud engineering and cloud security. Currently, I am learning the intricasies of cloud engineering and creating related projects in the meantime. I'm looking forward to more creating and connecting as this journey unfolds and hope to fork with you all soon! Find out more about me & feel free to connect with me here:
 
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. For spaces in names, use %20 (e.g. Broadus%20Palmer) -->
 
