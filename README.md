@@ -1,14 +1,14 @@
-### Hi there 👋
+### Hello World 👋
 
-<!-- Introduce yourself and give a brief introduction about yourself here.  Also include what tech you're interested in and what you are currently learning -->
+<!-- My name is Brent Collins and I am a DevOps Engineering enthusiast currently enrolled in the Level Up In Tech program. My interests lie in the world of cloud engineering and cloud security. Currently, I am learning the intricasies of cloud engineering and creating related projects in the meantime. I'm looking forward to more creating and connecting as this journey unfolds and hope to fork with you all soon! -->
 
 Find out more about me & feel free to connect with me here:
 
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. For spaces in names, use %20 (e.g. Broadus%20Palmer) -->
 
-[![Linkedin Badge](https://img.shields.io/badge/-Broadus%20Palmer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/levelupwithbroadus/)](https://www.linkedin.com/in/levelupwithbroadus/)
-[![Medium Badge](https://img.shields.io/badge/Broadus%20Palmer-12100E?style=flat-square&logo=medium&logoColor=white&link=https://www.linkedin.com/newsletters/level-up-in-tech-6746961814677987328/)](https://www.linkedin.com/newsletters/level-up-in-tech-6746961814677987328/)
-[![Gmail Badge](https://img.shields.io/badge/-Broadus@Levelupintech.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Broadus@Levelupintech.com)](mailto:Broadus@Levelupintech.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Brent%20Collins>-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brenton-collins-547b29ba/)](https://www.linkedin.com/in/brenton-collins-547b29ba/)
+[![Medium Badge](https://img.shields.io/badge/<ENTER YOUR NAME>-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@brentcollins012)](https://medium.com/@brentcollins012)
+[![Gmail Badge](https://img.shields.io/badge/-<ENTER YOUR GMAIL ADDRESS>-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brentcollins012@yahoo.com)](mailto:brentcollins012@yahoo.com)
 
 ## ⚡ Technologies
 
@@ -25,8 +25,8 @@ Find out more about me & feel free to connect with me here:
 
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. -->
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=LevelUpInTech&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LevelUpInTech&hide=TeX&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=bjc2012&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bjc2012&hide=TeX&layout=compact)
 
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=LevelUpInTech%2FLevelUpInTech&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=LevelUpInTech%2FLevelUpInTech)
