@@ -1,6 +1,6 @@
 ### Hello World 👋
 
-<!-- My name is Brent Collins and I am a DevOps Engineering enthusiast currently enrolled in the Level Up In Tech program. My interests lie in the world of cloud engineering and cloud security. Currently, I am learning the intricasies of cloud engineering and creating related projects in the meantime. I'm looking forward to more creating and connecting as this journey unfolds and hope to fork with you all soon!-->
+<!-- DevOps Engineering enthusiast and graduate of the Level Up In Tech program. Passionate about cloud engineering and cloud security. Learning the intricacies of cloud engineering and working on related projects in the meantime. Excited to create and collaborate as this journey unfolds.-->
 
 My name is Brent Collins and I am a DevOps Engineering enthusiast currently enrolled in the Level Up In Tech program. My interests lie in the world of cloud engineering and cloud security. Currently, I am learning the intricasies of cloud engineering and creating related projects in the meantime. I'm looking forward to more creating and connecting as this journey unfolds and hope to fork with you all soon! Find out more about me & feel free to connect with me here:
 
